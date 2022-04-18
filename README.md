@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a simpler version of Lisp, following this [book](https://buildyourownlisp.com/).
 
-- 🌱 I’m currently learning about functional programming, bots, serverless APIs.
+- 🌱 I’m currently learning about functional programming, bots and serverless APIs.
 
-- 📫 How to reach me: piero.capelo@gmail.com
+- 📫 You can reach me here: piero.capelo@gmail.com
 
 - 😄 Pronouns: Him/His
 
