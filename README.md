@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🔭 I’m currently working on a simpler version of Lisp, following this [book](https://buildyourownlisp.com/).
+- 🔭 I’m currently working on a [simpler version of Lisp](https://github.com/opiero/my-very-own-lisp), following this [book](https://buildyourownlisp.com/).
 
 - 🌱 I’m currently learning about functional programming, bots and serverless APIs.
 
