@@ -10,11 +10,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+<!--
 - 🔭 I’m currently working on a [simpler version of Lisp](https://github.com/opiero/my-very-own-lisp), following this [book](https://buildyourownlisp.com/).
-
+-->
 - 🌱 I’m currently learning about NLP and Cybersecurity.
-
-- 📫 You can reach me here: piero.capelo@gmail.com
+- 🐧 I ❤️ linux. Currently always learning for new ways to use this marvelous tool
+- 📫 You can reach me here: piero.capelo@proton.me
 
 - 😄 Pronouns: Him/His
 
