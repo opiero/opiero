@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a [simpler version of Lisp](https://github.com/opiero/my-very-own-lisp), following this [book](https://buildyourownlisp.com/).
 -->
 - 🌱 I’m currently learning about NLP and Cybersecurity.
-- 🐧 I ❤️ linux. Currently always learning for new ways to use this marvelous tool
+- 🐧 I ❤️ linux, nothing beats the feeling of tweaking an OS
+  - ❄️ Currently using NixOS
 - 📫 You can reach me here: piero.capelo@proton.me
 
 - 😄 Pronouns: Him/His
