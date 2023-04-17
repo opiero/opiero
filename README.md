@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 📫 You can reach me here: piero.capelo@proton.me
 
 - 😄 Pronouns: Him/His
-
-- ⚡ Fun fact: I was born on 04/04 at 04:44
