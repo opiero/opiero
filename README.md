@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on a [simpler version of Lisp](https://github.com/opiero/my-very-own-lisp), following this [book](https://buildyourownlisp.com/).
 -->
-- 🌱 I’m currently learning about NLP and Cybersecurity.
+- 🌱 I’m currently learning about [building a linux a from scratch] (https://www.linuxfromscratch.org/).
 - 🐧 I ❤️ linux, nothing beats the feeling of tweaking an OS
   - ⛰️ Currently using Manjaro Linux
 - 📫 You can reach me here: piero.capelo@proton.me
