@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning about NLP and Cybersecurity.
 - 🐧 I ❤️ linux, nothing beats the feeling of tweaking an OS
-  - Currently using Manjaro Linux
+  - ⛰️ Currently using Manjaro Linux
 - 📫 You can reach me here: piero.capelo@proton.me
 
 - 😄 Pronouns: Him/His
