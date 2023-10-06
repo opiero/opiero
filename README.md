@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - 🐧 I ❤️ Linux, nothing beats the feeling of tweaking an OS
   - ⛰️ Currently using Manjaro Linux
 - 📫 You can reach me here: piero.capelo@proton.me
-
-- 😄 Pronouns: Him/His
