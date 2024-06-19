@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on a [simpler version of Lisp](https://github.com/opiero/my-very-own-lisp), following this [book](https://buildyourownlisp.com/).
 - 🌱 I’m currently re[learning spark](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf). -->
-- 🐧 I ❤️ Linux, nothing beats the feeling of tweaking an OS
+- 🐧 I ❤️ Linux
   - ⛰️ Currently using Manjaro Linux
 - 📫 You can reach me here: piero.capelo@proton.me
