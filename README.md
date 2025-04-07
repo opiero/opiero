@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I am Piero Capelo, **Data Engineer** [@gorilainvest](https://github.com/gorilainvest), and Bachelor's in Computer Science from the University of São Paulo.
+I am Piero Capelo, **Senior Data Engineer** [@BCG X](https://www.bcg.com/x/), and Bachelor's in Computer Science from the University of São Paulo.
 
 <!--
 **opiero/opiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
